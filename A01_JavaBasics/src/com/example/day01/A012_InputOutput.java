@@ -1,7 +1,8 @@
 package com.example.day01;
 
 /*==========================================================================================
-  강의 진행, 프로젝트/패키지/클래스명명 규칙
+  ★★★ swcodingschool's Coding Class ★★★ 
+  프로젝트/패키지/클래스명명 규칙
   프로젝트명 : 수업 단계 표시. JavaBaisc / JavaOOP / JavaGui / JavaJDBC / JavaAppl / JavaWeb
   패키지명 : com.example.일차수 / com.practice.일차수 / com.report.일차수 / com.zup.일차수
   클래스명 : A:수업준비 예제, B:수업 중 시연예제
