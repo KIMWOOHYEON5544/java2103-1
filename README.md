@@ -8,6 +8,10 @@
 
 
 
+## **□ Head Instructor** 
+
+이성종(swcodingschool) / Tel. (043)259-2800 / E-Mail :  swcodingschool@gmail.com
+
 ## □ Syllabus 강의개요
 
 - #### 강의소개
