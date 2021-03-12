@@ -1,6 +1,6 @@
 #### ▣ swcodingschool's Coding Class
 
-# Java 프로그래밍 기초 & 응용
+# Java 프로그래밍 기초 & 활용
 
 > ### 교육기관 : 한국아이티 전문학원
 
