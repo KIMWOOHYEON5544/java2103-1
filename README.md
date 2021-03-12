@@ -23,21 +23,25 @@
 | Date                        | contents                         | Practice                                                     | HR   |
 | --------------------------- | -------------------------------- | ------------------------------------------------------------ | ---- |
 | Day01<br />03-15<br />(Mon) | 개발환경 구성                    | JDK 설치 및 환경변수 설정<br />IDE 설치  및 사용방법설<br />개발용 Font 설치 | 3    |
-| Day02<br />03-16<br />(Mon) | 변수와 자료형<br />자바의 연산자 | 변수 선언<br />연산자를 활용한 프로그래밍 연습               | 3    |
-| Day03<br />03-17<br />(Mon) | 제어문<br />                     | 순차 제어 프로그래밍 연습<br />조건제어 프로그래밍 연습<br />반복제어 프로그래밍 연습 | 3    |
-| Day04<br />03-18<br />(Mon) | 객체지향 프로그래밍              | 클래스 정의와 인스턴스<br />생성자와 참조 자료형, 정보은닉<br />this, 객체간 협력, static변수, scope<br />배열과 ArrayList | 3    |
-| Day05<br />03-19<br />(Mon) | 객체지향 프로그래밍              | 상속, 다형성 활용 프로그래밍 연습<br />추상클래스 활용 프로그래밍 연습<br />인터페이스 프로그래밍 연습 | 3    |
+| Day02<br />03-16<br />(Tue) | 변수와 자료형<br />자바의 연산자 | 변수 선언<br />연산자를 활용한 프로그래밍 연습               | 3    |
+| Day03<br />03-17<br />(Wed) | 제어문<br />                     | 순차 제어 프로그래밍 연습<br />조건제어 프로그래밍 연습<br />반복제어 프로그래밍 연습 | 3    |
+| Day04<br />03-18<br />(Thu) | 객체지향 프로그래밍              | 클래스 정의와 인스턴스<br />생성자와 참조 자료형, 정보은닉<br />this, 객체간 협력, static변수, scope<br />배열과 ArrayList | 3    |
+| Day05<br />03-19<br />(Fri) | 객체지향 프로그래밍              | 상속, 다형성 활용 프로그래밍 연습<br />추상클래스 활용 프로그래밍 연습<br />인터페이스 프로그래밍 연습 | 3    |
 | Day06<br />03-22<br />(Mon) | 객체지향 프로그래밍              | 기본클래스<br />컬렉션 프레임워크<br />내부클래스, 람다식<br />예외처리 | 3    |
-| Day07<br />03-23<br />(Mon) | GUI & Database Programming       | AWT & SWING<br />DBMS 설치<br />JDBC<br />SWING & JDBC Simple Example Program | 3    |
-| Day08<br />03-24<br />(Mon) | GUI & Database Programming       | SWING & JDBC Simple Example Program                          | 3    |
-| Day09<br />03-25<br />(Mon) | Do It Yourself : Simple Project  | JAVA Swing GUI Application with JDBC                         | 3    |
-| Day10<br />03-26<br />(Mon) | Do It Yourself : Simple Project  | JAVA Swing GUI Application with JDBC                         | 3    |
+| Day07<br />03-23<br />(Tue) | GUI & Database Programming       | AWT & SWING<br />DBMS 설치<br />JDBC<br />SWING & JDBC Simple Example Program | 3    |
+| Day08<br />03-24<br />(Wed) | GUI & Database Programming       | SWING & JDBC Simple Example Program                          | 3    |
+| Day09<br />03-25<br />(Thu) | Do It Yourself : Simple Project  | JAVA Swing GUI Application with JDBC                         | 3    |
+| Day10<br />03-26<br />(Fri) | Do It Yourself : Simple Project  | JAVA Swing GUI Application with JDBC                         | 3    |
 
 
 
 - #### 온라인자료
 
-
+  - 주교재 : Do it! 자바 프로그래밍 입문 [동영상 강의](https://www.youtube.com/playlist?list=PLG7te9eYUi7typZrH4fqXvs4E22ZFn1Nj)
+  - OpenJDK 11 [다운로드](https://jdk.java.net/15/)
+  - [API Javadoc(version 15)](https://docs.oracle.com/en/java/javase/15/docs/api/index.html)
+  - [MySQL Community Downloads](https://dev.mysql.com/downloads/installer/)
+  - [MySQL Tutorial](https://www.mysqltutorial.org/)
 
 
 
