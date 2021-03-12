@@ -1,2 +1,18 @@
-# java2103
-Beginning in March 2021 Java programming basics and application classes
+#### ▣ swcodingschool's Coding Class
+
+# Java 프로그래밍 기초 & 응용
+
+> ### 교육기관 : 한국아이티 전문학원
+
+> ### 교육기간 : 2021년 3월 15일~26일(14:00 ~ 17:00)
+
+
+
+## □ Syllabus 강의개요
+
+- #### 수강대상
+
+JAVA 프로그램을 처음 시작하며 기본 문법과 간단한 어플리케이션을 만들고 싶은 분.  
+프로그램 관련 선수학습 및 지식 불필요.  
+
+- #### 강의 일정 계획
