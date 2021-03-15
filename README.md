@@ -26,7 +26,7 @@
 
 | Date                        | contents                         | Practice                                                     | HR   |
 | --------------------------- | -------------------------------- | ------------------------------------------------------------ | ---- |
-| Day01<br />03-15<br />(Mon) | 개발환경 구성                    | JDK 설치 및 환경변수 설정<br />IDE 설치  및 사용방법설명<br />개발용 Font 설치<br />IDE와 Git연동 | 3    |
+| Day01<br />03-15<br />(Mon) | 개발환경 구성                    | JDK 설치 및 환경변수 설정  [참고1-JDK](https://jhnyang.tistory.com/224)  [참고2-OpenJDK](https://goldsony.tistory.com/10)<br />IDE 설치  및 사용방법설명([Shortcuts for Eclipse](./clipse_shortcuts.pdf))<br />개발용 Font 설치 [참고3](https://www.codingfactory.net/11495)<br />IDE와 Git연동 [참고4](https://gangnam-americano.tistory.com/31) | 3    |
 | Day02<br />03-16<br />(Tue) | 변수와 자료형<br />자바의 연산자 | 변수 선언<br />연산자를 활용한 프로그래밍 연습               | 3    |
 | Day03<br />03-17<br />(Wed) | 제어문<br />                     | 순차 제어 프로그래밍 연습<br />조건제어 프로그래밍 연습<br />반복제어 프로그래밍 연습 | 3    |
 | Day04<br />03-18<br />(Thu) | 객체지향 프로그래밍              | 클래스 정의와 인스턴스<br />생성자와 참조 자료형, 정보은닉<br />this, 객체간 협력, static변수, scope<br />배열과 ArrayList | 3    |
