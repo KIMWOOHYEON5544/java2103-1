@@ -42,10 +42,13 @@
 - #### 온라인자료
 
   - 주교재 : Do it! 자바 프로그래밍 입문 [동영상 강의](https://www.youtube.com/playlist?list=PLG7te9eYUi7typZrH4fqXvs4E22ZFn1Nj)
-  - OpenJDK 11 [다운로드](https://jdk.java.net/15/)
   - [API Javadoc(version 15)](https://docs.oracle.com/en/java/javase/15/docs/api/index.html)
+  - Geeks for Geeks : [Java Programming Language](https://www.geeksforgeeks.org/java/)
+  
+- #### 다운로드 링크
+
+  - OpenJDK 11 [다운로드](https://jdk.java.net/15/)
+  - [Eclipse IDE 2020-12 R(Includes JRE)](https://www.eclipse.org/downloads/)
+  - [Naver D2 Coding Font](https://github.com/naver/d2codingfont)
   - [MySQL Community Downloads](https://dev.mysql.com/downloads/installer/)
   - [MySQL Tutorial](https://www.mysqltutorial.org/)
-
-
-
